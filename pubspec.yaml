@@ -19,5 +19,5 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
-  - assets/images/tree_empty.png
-  - assets/images/tree_fruit.png
+  - assets/images/agac_bos.png
+  - assets/images/agac_dolu.png
